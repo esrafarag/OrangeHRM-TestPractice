@@ -7,10 +7,10 @@ Scenarios covered:
 1. Login then asserting on the welcome message displayed.
 2. Go to Admin page and search for a user then asserting the search result is correct.
 3. Go to Assign leave page and assign a leave for a user by filling assign leave form and asserting on the success confirmation message displayed.
-4. Logout
+4. Logout.
 
 
 Instructions for use:
 
-Download project
-Import project as a maven project in eclipse
+1. Download project.
+2. Import project as a maven project in eclipse.
